@@ -15,3 +15,5 @@ All the required components are:
 9) LED INDICATORS
 10) NPN TRANSISTOR
 11) DIODE
+## Flow chart
+![Screenshot (1)](https://github.com/aindri7/Cost-Estimation-and-Fabrication-of-LPG-Gas-Detection-Fire-Alarm-System/assets/75011539/d3214f57-599e-43b3-97e0-9e690e238676)
