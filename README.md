@@ -17,3 +17,8 @@ All the required components are:
 11) DIODE
 ## Flow chart
 ![Screenshot (1)](https://github.com/aindri7/Cost-Estimation-and-Fabrication-of-LPG-Gas-Detection-Fire-Alarm-System/assets/75011539/d3214f57-599e-43b3-97e0-9e690e238676)
+## Circuit diagram
+For LPG gas detection system:
+![Screenshot (2) lpg](https://github.com/aindri7/Cost-Estimation-and-Fabrication-of-LPG-Gas-Detection-Fire-Alarm-System/assets/75011539/56e3a6ca-7a16-40c0-a8bd-06ad91dc9471)
+For Flame detection with water sprinkler system:
+![Screenshot (2) flame](https://github.com/aindri7/Cost-Estimation-and-Fabrication-of-LPG-Gas-Detection-Fire-Alarm-System/assets/75011539/8d928782-af7c-4df9-a104-405e143af001)
